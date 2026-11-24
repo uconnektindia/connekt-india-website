@@ -1,0 +1,34 @@
+[
+  {
+    "sample": true,
+    "name": "Rohit Mohanty",
+    "business": "Fitness studio owner, Bhubaneswar",
+    "photo": "person-1.jpg",
+    "rating": 5,
+    "quote": "Connekt India planned our reels and Meta Ads together, and our enquiries became much more consistent. The team is quick, creative and easy to work with."
+  },
+  {
+    "sample": true,
+    "name": "Sandeep Panda",
+    "business": "Jewellery retailer, Odisha",
+    "photo": "person-2.jpg",
+    "rating": 5,
+    "quote": "Our Instagram finally looks as premium as our showroom. The product shoots and festive campaigns brought new customers through the door."
+  },
+  {
+    "sample": true,
+    "name": "Amit Kumar Nayak",
+    "business": "Startup founder, Bhubaneswar",
+    "photo": "person-3.jpg",
+    "rating": 5,
+    "quote": "They built our website and a small CRM to track leads. Everything is fast, simple and exactly what our sales team needed."
+  },
+  {
+    "sample": true,
+    "name": "Prakash Behera",
+    "business": "Café owner, Cuttack",
+    "photo": "person-4.jpg",
+    "rating": 4,
+    "quote": "From logo to menu design to weekly posts, Connekt handled everything. Clear monthly reports and real people who pick up the phone."
+  }
+]

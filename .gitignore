@@ -1,0 +1,14 @@
+# Real passwords live here: create it on the server from config.sample.php, never commit it
+config/config.php
+
+# Runtime data written by the live site
+logs/*.log
+uploads/resumes/*
+!uploads/resumes/.htaccess
+
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "warzone",
+    "client": "WarZone",
+    "title": "Social-first launch & always-on promotions",
+    "industry": "Gaming & Entertainment",
+    "cats": ["social", "performance"],
+    "servicesLabel": ["Social Media", "Performance Marketing"],
+    "featured": true,
+    "logo": "warzone.png",
+    "thumb": "",
+    "gradient": "linear-gradient(140deg,#05070b 0%,#0b3dce 55%,#3b7bff 100%)",
+    "summary": "High-energy reels, launch campaigns and local ads to bring players through the door.",
+    "challenge": "WarZone needed to build buzz quickly in a competitive local market and turn online attention into walk-ins and bookings.",
+    "solution": "We created a bold content style built around fast-cut reels, event announcements and player highlights, backed by geo-targeted Meta Ads and a simple WhatsApp booking flow.",
+    "results": [
+      { "value": "[ADD]", "label": "Reel views" },
+      { "value": "[ADD]", "label": "Bookings / enquiries" },
+      { "value": "[ADD]", "label": "Follower growth" }
+    ],
+    "resultsNote": "Placeholder: replace [ADD] with real campaign numbers before launch.",
+    "gallery": []
+  },
+  {
+    "id": "iron-empire",
+    "client": "Iron Empire",
+    "title": "Membership growth for a premium gym",
+    "industry": "Fitness",
+    "cats": ["social", "performance", "branding"],
+    "servicesLabel": ["Social Media", "Meta Ads", "Creative"],
+    "featured": true,
+    "logo": "iron-empire.png",
+    "thumb": "",
+    "gradient": "linear-gradient(140deg,#0b3dce 0%,#155dfc 50%,#05070b 100%)",
+    "summary": "Transformation stories, trainer content and lead ads that fill trial slots every month.",
+    "challenge": "Iron Empire wanted a steady flow of new members, not just likes, and a brand presence that matched the quality of its facility.",
+    "solution": "We built a monthly content system of transformation stories, trainer tips and facility reels, and ran Meta lead campaigns with a free-trial offer and fast WhatsApp follow-up.",
+    "results": [
+      { "value": "[ADD]", "label": "Trial sign-ups" },
+      { "value": "[ADD]", "label": "Cost per lead" },
+      { "value": "[ADD]", "label": "Engagement rate" }
+    ],
+    "resultsNote": "Placeholder: replace [ADD] with real campaign numbers before launch.",
+    "gallery": []
+  },
+  {
+    "id": "fitness-hour",
+    "client": "Fitness Hour",
+    "title": "Community-led social media and a new website",
+    "industry": "Fitness",
+    "cats": ["social", "web"],
+    "servicesLabel": ["Social Media", "Web Development"],
+    "featured": true,
+    "logo": "fitness-hour.png",
+    "thumb": "",
+    "gradient": "linear-gradient(140deg,#155dfc 0%,#80a6ff 100%)",
+    "summary": "Member-focused content and a mobile-first website with class schedules and enquiry forms.",
+    "challenge": "Fitness Hour had a loyal community offline but little presence online, and no website to answer common questions.",
+    "solution": "We launched a friendly, member-first content calendar and built a fast, mobile-first website with plans, timings, a gallery and WhatsApp enquiry buttons.",
+    "results": [
+      { "value": "[ADD]", "label": "Website enquiries" },
+      { "value": "[ADD]", "label": "Monthly reach" },
+      { "value": "[ADD]", "label": "Page speed score" }
+    ],
+    "resultsNote": "Placeholder: replace [ADD] with real numbers before launch.",
+    "gallery": []
+  },
+  {
+    "id": "novus",
+    "client": "Novus",
+    "title": "Brand identity, website and custom tools",
+    "industry": "Business",
+    "cats": ["branding", "web", "software"],
+    "servicesLabel": ["Branding", "Web", "Software"],
+    "featured": false,
+    "logo": "novus.png",
+    "thumb": "",
+    "gradient": "linear-gradient(140deg,#05070b 0%,#155dfc 100%)",
+    "summary": "A modern identity system, a conversion-focused website and a lead dashboard.",
+    "challenge": "Novus needed a clear, modern brand and a way to capture and track leads without juggling spreadsheets.",
+    "solution": "We designed a clean identity with a flexible colour and type system, built a conversion-focused website, and connected its forms to a simple lead dashboard.",
+    "results": [
+      { "value": "[ADD]", "label": "Leads captured" },
+      { "value": "[ADD]", "label": "Hours saved / month" },
+      { "value": "[ADD]", "label": "Conversion rate" }
+    ],
+    "resultsNote": "Placeholder: replace [ADD] with real numbers before launch.",
+    "gallery": []
+  },
+  {
+    "id": "carbon",
+    "client": "Carbon",
+    "title": "A bold visual identity and content style",
+    "industry": "Lifestyle",
+    "cats": ["branding", "social"],
+    "servicesLabel": ["Creative & Branding", "Social Media"],
+    "featured": false,
+    "logo": "carbon.png",
+    "thumb": "",
+    "gradient": "linear-gradient(140deg,#101624 0%,#0b3dce 60%,#80a6ff 100%)",
+    "summary": "A dark, minimal visual language carried across social, print and packaging.",
+    "challenge": "Carbon wanted a look that felt premium and instantly recognisable across every touchpoint.",
+    "solution": "We built a minimal dark-mode identity, a set of reusable social templates and a motion style for reels, so every post feels unmistakably Carbon.",
+    "results": [
+      { "value": "[ADD]", "label": "Brand recall" },
+      { "value": "[ADD]", "label": "Engagement growth" },
+      { "value": "[ADD]", "label": "Creatives delivered" }
+    ],
+    "resultsNote": "Placeholder: replace [ADD] with real numbers before launch.",
+    "gallery": []
+  },
+  {
+    "id": "akhandalamani-jewellers",
+    "client": "Akhandalamani Jewellers",
+    "title": "Building trust online for a heritage jeweller",
+    "industry": "Jewellery",
+    "cats": ["social", "branding", "performance"],
+    "servicesLabel": ["Social Media", "Creative", "Meta Ads"],
+    "featured": true,
+    "logo": "akhandalamani-jewellers.png",
+    "thumb": "",
+    "gradient": "linear-gradient(140deg,#0b3dce 0%,#155dfc 45%,#c9a227 140%)",
+    "summary": "Premium product shoots, festive campaigns and showroom-visit ads.",
+    "challenge": "A trusted name offline, Akhandalamani Jewellers wanted its Instagram to reflect the craftsmanship of its collections and drive showroom visits during festive seasons.",
+    "solution": "We introduced premium product photography and reels, designed festive and wedding-season campaigns, and ran location-targeted Meta Ads promoting showroom visits and WhatsApp enquiries.",
+    "results": [
+      { "value": "[ADD]", "label": "Showroom enquiries" },
+      { "value": "[ADD]", "label": "Festive campaign reach" },
+      { "value": "[ADD]", "label": "Follower growth" }
+    ],
+    "resultsNote": "Placeholder: replace [ADD] with real campaign numbers before launch.",
+    "gallery": []
+  }
+]

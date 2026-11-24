@@ -1,0 +1,450 @@
+[
+ {
+  "q": "What does Connekt India do?",
+  "keywords": [
+   "about",
+   "what do you do",
+   "who are you",
+   "connekt",
+   "agency",
+   "company",
+   "kya karte"
+  ],
+  "a": "We are a digital marketing, creative and technology agency in Bhubaneswar. We help brands grow with digital marketing, social media, performance ads, branding, websites and custom software.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "Where is your office?",
+  "keywords": [
+   "location",
+   "where",
+   "office",
+   "address",
+   "located",
+   "kahan",
+   "visit",
+   "map"
+  ],
+  "a": "446, Saheed Nagar, Bhubaneswar, Odisha, India – 751007. You're welcome to visit after booking a time with us.",
+  "actions": [
+   "map",
+   "whatsapp"
+  ]
+ },
+ {
+  "q": "How can I contact you?",
+  "keywords": [
+   "contact",
+   "reach",
+   "call",
+   "phone",
+   "email",
+   "number",
+   "baat",
+   "sampark"
+  ],
+  "a": "Email us at {{email}}, call {{phone}}, use the contact form, or tap the WhatsApp button for an instant reply.",
+  "actions": [
+   "whatsapp",
+   "contact"
+  ]
+ },
+ {
+  "q": "What services do you offer?",
+  "keywords": [
+   "services",
+   "service",
+   "offer",
+   "provide",
+   "what services",
+   "solutions"
+  ],
+  "a": "We offer 6 services: Digital Marketing, Social Media Management, Performance Marketing, Creative & Branding, Web Development and Software Development.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "What is your pricing?",
+  "keywords": [
+   "pricing",
+   "price",
+   "cost",
+   "kitna",
+   "rate",
+   "charges",
+   "fees",
+   "quote",
+   "budget"
+  ],
+  "a": "Pricing depends on your goals and scope. Share your requirements and we'll send a custom quote, usually within 24 hours.",
+  "actions": [
+   "contact",
+   "whatsapp"
+  ]
+ },
+ {
+  "q": "Do you offer monthly packages?",
+  "keywords": [
+   "monthly",
+   "retainer",
+   "package",
+   "packages",
+   "per month",
+   "mahine",
+   "subscription"
+  ],
+  "a": "Yes. We offer monthly retainer plans for social media and marketing, as well as one-time project pricing for websites, branding and software.",
+  "actions": [
+   "contact"
+  ]
+ },
+ {
+  "q": "Do you work with small businesses and startups?",
+  "keywords": [
+   "small",
+   "startup",
+   "startups",
+   "new business",
+   "local",
+   "small business"
+  ],
+  "a": "Absolutely. We work with startups, local businesses and growing brands, and we plan around your budget.",
+  "actions": [
+   "contact"
+  ]
+ },
+ {
+  "q": "Which clients have you worked with?",
+  "keywords": [
+   "clients",
+   "client",
+   "portfolio",
+   "worked",
+   "brands",
+   "our work",
+   "examples",
+   "case study"
+  ],
+  "a": "Brands including WarZone, Iron Empire, Fitness Hour, Novus, Carbon and Akhandalamani Jewellers.",
+  "actions": [
+   "work"
+  ]
+ },
+ {
+  "q": "Do you manage Instagram and Facebook pages?",
+  "keywords": [
+   "social",
+   "instagram",
+   "facebook",
+   "page",
+   "manage",
+   "posts",
+   "social media management"
+  ],
+  "a": "Yes. We handle content calendars, posts, reels, captions, hashtags, community replies and monthly reports.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "Do you make reels and videos?",
+  "keywords": [
+   "reels",
+   "reel",
+   "video",
+   "videos",
+   "shoot",
+   "editing",
+   "youtube",
+   "motion"
+  ],
+  "a": "Yes. We do concept planning, shooting coordination, editing, motion graphics and reels optimised for Instagram and YouTube.",
+  "actions": [
+   "work"
+  ]
+ },
+ {
+  "q": "Do you run Meta Ads and Google Ads?",
+  "keywords": [
+   "ads",
+   "meta ads",
+   "google ads",
+   "facebook ads",
+   "advertising",
+   "campaign",
+   "paid",
+   "promote"
+  ],
+  "a": "Yes. We plan, run and optimise Meta (Facebook/Instagram) and Google Ads with proper conversion tracking.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "How soon will I see results from ads?",
+  "keywords": [
+   "ads",
+   "results",
+   "time",
+   "how soon"
+  ],
+  "a": "Ads can bring leads within days. Steady performance usually builds over 4–8 weeks of testing and optimisation."
+ },
+ {
+  "q": "Do you do SEO?",
+  "keywords": [
+   "seo",
+   "ranking",
+   "google search",
+   "search engine",
+   "gmb",
+   "google business",
+   "local seo"
+  ],
+  "a": "Yes. We cover on-page SEO, local SEO (Google Business Profile), technical fixes, content and keyword strategy.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "How long does SEO take?",
+  "keywords": [
+   "seo",
+   "time",
+   "how long"
+  ],
+  "a": "SEO is long-term. You'll usually see meaningful movement in 3–6 months, depending on competition."
+ },
+ {
+  "q": "Can you design a logo and brand identity?",
+  "keywords": [
+   "branding",
+   "logo",
+   "brand",
+   "identity",
+   "design",
+   "graphic",
+   "packaging"
+  ],
+  "a": "Yes. We do logos, colour palettes, typography, brand guidelines, packaging and marketing collateral.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "Do you build websites?",
+  "keywords": [
+   "website",
+   "websites",
+   "web",
+   "site",
+   "landing",
+   "web development"
+  ],
+  "a": "Yes. We build responsive business websites, e-commerce stores and landing pages that are fast, SEO-ready and mobile-friendly.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "How long does a website take?",
+  "keywords": [
+   "website",
+   "time",
+   "how long"
+  ],
+  "a": "A business website typically takes 1–3 weeks. Larger or e-commerce projects take longer depending on features."
+ },
+ {
+  "q": "Do you build e-commerce websites?",
+  "keywords": [
+   "ecommerce",
+   "online store",
+   "shop",
+   "razorpay",
+   "payment gateway",
+   "cart"
+  ],
+  "a": "Yes. We build online stores with payment gateways (Razorpay and others), product management and order tracking.",
+  "actions": [
+   "contact"
+  ]
+ },
+ {
+  "q": "Do you develop software or apps?",
+  "keywords": [
+   "software",
+   "app",
+   "apps",
+   "crm",
+   "dashboard",
+   "automation",
+   "mobile app",
+   "application"
+  ],
+  "a": "Yes. We build custom software, web applications, CRMs, dashboards, automation tools and mobile apps.",
+  "actions": [
+   "services"
+  ]
+ },
+ {
+  "q": "Will I own my website and content?",
+  "keywords": [
+   "own",
+   "ownership",
+   "rights",
+   "source code",
+   "mine",
+   "website own",
+   "website"
+  ],
+  "a": "Yes. Once the project is complete and paid for, the website, designs and content are yours."
+ },
+ {
+  "q": "Do you provide website maintenance?",
+  "keywords": [
+   "maintenance",
+   "maintain",
+   "support",
+   "updates",
+   "backup",
+   "backups"
+  ],
+  "a": "Yes. We offer maintenance plans covering updates, backups, security and content changes."
+ },
+ {
+  "q": "Can you help with hosting and domain?",
+  "keywords": [
+   "hosting",
+   "domain",
+   "server",
+   "ssl",
+   "business email"
+  ],
+  "a": "Yes. We can guide you through or handle domain registration, hosting setup, business email and SSL."
+ },
+ {
+  "q": "Do you work with clients outside Odisha?",
+  "keywords": [
+   "outside",
+   "other city",
+   "other state",
+   "abroad",
+   "international",
+   "remote",
+   "online meeting"
+  ],
+  "a": "Yes. We work with clients across India and abroad through online meetings."
+ },
+ {
+  "q": "What is your process?",
+  "keywords": [
+   "process",
+   "steps",
+   "approach",
+   "how do you work",
+   "workflow",
+   "method"
+  ],
+  "a": "Discover → Plan → Execute → Improve. We understand your brand, make a strategy, deliver the work and keep optimising."
+ },
+ {
+  "q": "Will I get reports?",
+  "keywords": [
+   "reports",
+   "report",
+   "reporting",
+   "analytics",
+   "insights",
+   "track"
+  ],
+  "a": "Yes. You get clear monthly reports covering reach, engagement, leads, ad spend and next steps."
+ },
+ {
+  "q": "Are you hiring? / Careers",
+  "keywords": [
+   "careers",
+   "career",
+   "job",
+   "jobs",
+   "hiring",
+   "vacancy",
+   "naukri",
+   "resume",
+   "apply",
+   "join"
+  ],
+  "a": "Yes, we're always looking for talent. Choose \"Career\" in the contact form and upload your resume.",
+  "actions": [
+   "career"
+  ]
+ },
+ {
+  "q": "Do you offer internships?",
+  "keywords": [
+   "intern",
+   "internship",
+   "internships",
+   "trainee",
+   "fresher",
+   "student"
+  ],
+  "a": "Yes. We offer internships in marketing, design, video editing and development. Apply through the Career form.",
+  "actions": [
+   "career"
+  ]
+ },
+ {
+  "q": "What are your working hours?",
+  "keywords": [
+   "hours",
+   "working hours",
+   "timing",
+   "timings",
+   "open",
+   "samay",
+   "sunday"
+  ],
+  "a": "Our working hours are {{hours}}. WhatsApp messages are answered as soon as possible.",
+  "actions": [
+   "whatsapp"
+  ]
+ },
+ {
+  "q": "Can I get a free consultation?",
+  "keywords": [
+   "consultation",
+   "free",
+   "discovery",
+   "meeting",
+   "consult",
+   "demo",
+   "discuss"
+  ],
+  "a": "Yes. Share your details and we'll set up a free discovery call to understand your needs.",
+  "actions": [
+   "contact",
+   "lead"
+  ]
+ },
+ {
+  "q": "How do I start a project?",
+  "keywords": [
+   "start",
+   "begin",
+   "get started",
+   "start a project",
+   "new project",
+   "shuru",
+   "onboard"
+  ],
+  "a": "Fill in the enquiry form, message us on WhatsApp, or email {{email}}. We'll reply quickly with the next steps.",
+  "actions": [
+   "contact",
+   "whatsapp"
+  ]
+ }
+]

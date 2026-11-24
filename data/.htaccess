@@ -1,0 +1,12 @@
+# Only JSON files may be read (GET) from /data. Writes are blocked in the root .htaccess.
+Options -Indexes
+<FilesMatch "^(?!.*\.json$).*$">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
+<FilesMatch "\.json$">
+  <IfModule mod_headers.c>
+    Header set X-Robots-Tag "noindex"
+  </IfModule>
+</FilesMatch>

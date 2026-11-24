@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /config/
+Disallow: /uploads/
+Disallow: /data/
+
+Sitemap: https://uconnekt.in/sitemap.xml

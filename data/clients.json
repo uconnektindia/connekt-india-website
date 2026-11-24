@@ -1,0 +1,8 @@
+[
+  { "name": "WarZone", "logo": "warzone.png", "industry": "Gaming & Entertainment" },
+  { "name": "Iron Empire", "logo": "iron-empire.png", "industry": "Fitness" },
+  { "name": "Fitness Hour", "logo": "fitness-hour.png", "industry": "Fitness" },
+  { "name": "Novus", "logo": "novus.png", "industry": "Business" },
+  { "name": "Carbon", "logo": "carbon.png", "industry": "Lifestyle" },
+  { "name": "Akhandalamani Jewellers", "logo": "akhandalamani-jewellers.png", "industry": "Jewellery" }
+]
